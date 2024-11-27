@@ -10,7 +10,7 @@ const Footer = () => {
           <span role="img" aria-label="Love">
             ❤️
           </span>{" "}
-          by Abhinav Kulkarni
+          by RASHMI DUBEY
         </p>
         <div className="d-flex gap align-center padding-all-16">
           {footer.map(({imgUrl, alt, link, _id}) => {
